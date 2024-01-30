@@ -24,7 +24,6 @@
 [Site] [Click]( https://sushrut-portfolio.netlify.app/) 
 [Github] [Click](https://github.com/Sushrut001/Portfolio) 
 
-
 ## Contact 
 
 [Gmail]  (Sushrutgaikwad55@gmail.com 
@@ -32,3 +31,7 @@
 [linkedin] (https://www.linkedin.com/in/sushrut-g-a6227b228/) 
 
 [Potfolio] ( https://sushrut-portfolio.netlify.app/)
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushrut001&show_icons=true&locale=en&layout=compact" alt="sushrut001" /></p>
