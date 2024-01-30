@@ -2,6 +2,8 @@
  ## About Me
 
 👋 "Hi, I'm Sushrut, a programmer who loves writing code to create cool stuff. I enjoy solving problems and learning new things in the world of tech. When I'm not coding, you can find me exploring the outdoors or playing video games. Let's build the future together!"
+ 
+ I am a highly motivated and results-oriented student with a passion for learning and innovation. I am proficient in a variety of skills, including research, Designing, problem solving, and teamwork I am always eager to learn new things and trying new thing.
 ##  Certification  
 
 * Foundations of User Experience (UX) Design by Google , 
@@ -13,8 +15,7 @@
   —Hackerrank [Click](https://www.hackerrank.com/certificates/77fe67974fe7) 
 
 ## Projects
-
-I'm available to hire on a contract-basis, and willing to accept a variety of projects:
+ 
 
 * Smart Door Using Facial Recognition
 [Diploma Project] [Links](https://docs.google.com/document/d/1lPq-bZ-x5FjvPQ-_kphOP5fGdJ0G2Izc/edit)
@@ -26,6 +27,8 @@ I'm available to hire on a contract-basis, and willing to accept a variety of pr
 
 ## Contact 
 
-[Gmail]  (Sushrutgaikwad55@gmail.com) 
+[Gmail]  (Sushrutgaikwad55@gmail.com 
+
 [linkedin] (https://www.linkedin.com/in/sushrut-g-a6227b228/) 
+
 [Potfolio] ( https://sushrut-portfolio.netlify.app/)
