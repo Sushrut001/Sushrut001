@@ -13,9 +13,4 @@
 # Social :
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/sushrut-g-a6227b228/)    [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sushrutgaikwad55@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/Sushrut_001)
-
-# 📊 GitHub Stats: 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushrut001&show_icons=true&locale=en&layout=compact" alt="sushrut001" /></p>
- 
+)](https://instagram.com/Sushrut_001) 
